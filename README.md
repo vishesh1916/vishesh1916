@@ -98,7 +98,7 @@
 
   <img
     src="./assets/vishesh-pixel-workspace.svg"
-    width="430"
+    width="420"
     alt="Vishesh pixel art developer workspace"
   />
 
