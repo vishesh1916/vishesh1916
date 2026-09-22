@@ -1,64 +1,48 @@
 <div align="center">
 
 <!-- ========================================================= -->
-<!-- CUSTOM ANIMATED OPERATING SYSTEM HERO                    -->
+<!-- CINEMATIC RETRO TV OPENING                                -->
 <!-- ========================================================= -->
 
 <img
   src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/assets/vishesh-os-animated.svg"
   width="100%"
-  alt="Vishesh OS animated developer interface"
+  alt="Vishesh TV Retro Broadcast"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=850&height=50&lines=FULL+STACK+DEVELOPER;AI+BUILDER;HACKATHON+ENTHUSIAST;PRODUCT+EXPLORER;TURNING+IDEAS+INTO+SOFTWARE"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2400&pause=900&color=00FF9C&center=true&vCenter=true&width=820&height=40&lines=FULL+STACK+DEVELOPER;AI+BUILDER;HACKATHON+ENTHUSIAST;PRODUCT+EXPLORER;BUILDING+THINGS+WORTH+REMEMBERING"
   alt="Animated developer roles"
 />
 
 <br><br>
 
 <a href="https://github.com/vishesh1916">
-<img src="https://img.shields.io/badge/GITHUB-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C">
+  <img
+    src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/vishesh-r-sachan-5ab29739b">
-<img src="https://img.shields.io/badge/LINKEDIN-050A0F?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050A0F?style=for-the-badge&logo=gmail&logoColor=FF6B6B">
+  <img
+    src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B"
+    alt="Email"
+  />
 </a>
 
 </div>
 
 <br>
-
-<!-- ========================================================= -->
-<!-- LIVE CRT -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-stats-crt.png"
-  width="100%"
-  alt="Live GitHub CRT statistics"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFCC66&center=true&vCenter=true&width=850&height=40&lines=BUILD+THINGS+THAT+FEEL+ALIVE.;LEARN+BY+BUILDING.;BREAK+IT.+FIX+IT.+SHIP+IT."
-  alt="Animated philosophy"
-/>
-
-</div>
 
 ---
 
@@ -67,16 +51,18 @@
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         PROFILE KERNEL                                      ║
-║                                                                            ║
-║  identity ............... loaded                                            ║
-║  curiosity .............. active                                            ║
-║  creativity ............. active                                            ║
-║  builder engine ......... running                                           ║
-║                                                                            ║
-║  status .................................................... ONLINE ●       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   vishesh@github:~$ boot profile                                           │
+│                                                                            │
+│   identity       ............................................. READY       │
+│   builder        ............................................. READY       │
+│   curiosity      ............................................. ACTIVE      │
+│   creativity     ............................................. ACTIVE      │
+│                                                                            │
+│   status .................................................... ONLINE ●      │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -88,11 +74,11 @@
 
 <td width="58%" valign="top">
 
-### `> WHOAMI`
+### `> WHO AM I`
 
 ```text
 VISHESH SACHAN
-─────────────────────────────────────
+──────────────────────────────────────
 
 FULL STACK DEVELOPER
 
@@ -116,27 +102,27 @@ I enjoy:
 <div align="center">
 
 ```text
-              ┌───────────┐
-              │   IDEA    │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │  DESIGN   │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   BUILD   │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   TEST    │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   SHIP    │
-              └─────┬─────┘
-                    │
-                    └──────────↺
+            ┌───────────┐
+            │   IDEA    │
+            └─────┬─────┘
+                  ↓
+            ┌───────────┐
+            │  DESIGN   │
+            └─────┬─────┘
+                  ↓
+            ┌───────────┐
+            │   BUILD   │
+            └─────┬─────┘
+                  ↓
+            ┌───────────┐
+            │   TEST    │
+            └─────┬─────┘
+                  ↓
+            ┌───────────┐
+            │   SHIP    │
+            └─────┬─────┘
+                  │
+                  └────────────↺
 ```
 
 </div>
@@ -215,91 +201,184 @@ SHIPPING    ███████████████████░
 
 ---
 
-# `02` / TECH ARSENAL
+# `02` / LIVE CRT
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,django,java,javascript,html,css,mysql,git,github,figma,vscode,linux&perline=6"
-  alt="Technology stack"
+  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-stats-crt.png"
+  width="100%"
+  alt="Vishesh Sachan Live GitHub CRT"
 />
 
-<br><br>
+<br>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=1800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=35&lines=TOOLS+I+BUILD+WITH;STACK+ONLINE;SYSTEM+READY"
-  alt="Animated technology status"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=FFCC66&center=true&vCenter=true&width=680&height=35&lines=THE+CRT+IS+LIVE.;THE+BROADCAST+CHANGES+WITH+THE+CODE.;EVERY+COMMIT+LEAVES+A+SIGNAL."
+  alt="Animated CRT caption"
+/>
+
+</div>
+
+---
+
+# `03` / TECH STACK
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+
+<!-- ========================================================= -->
+<!-- LEFT : ANIMATED VISUAL                                    -->
+<!-- ========================================================= -->
+
+<td
+  align="center"
+  valign="middle"
+  width="50%"
+  style="border: none; background: transparent;"
+>
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  width="420"
+  alt="Developer coding animation"
+/>
+
+</td>
+
+<!-- ========================================================= -->
+<!-- RIGHT : TECH BADGES                                       -->
+<!-- ========================================================= -->
+
+<td
+  align="center"
+  valign="middle"
+  width="50%"
+  style="border: none; background: transparent;"
+>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=520&height=35&lines=TOOLS+I+BUILD+WITH;MY+TECH+ARSENAL;STACK+ONLINE"
+  alt="Animated technology heading"
 />
 
 <br><br>
 
-<table>
-<tr>
+<!-- ROW 1 -->
 
-<td width="25%" align="center">
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  alt="Python"
+/>
 
-### `BACKEND`
+<img
+  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+  alt="Django"
+/>
 
-🐍 Python
+<img
+  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+  alt="Java"
+/>
 
-🌐 Django
+<br><br>
 
-☕ Java
+<!-- ROW 2 -->
 
-🗄️ MySQL
+<img
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  alt="JavaScript"
+/>
 
-</td>
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  alt="HTML5"
+/>
 
-<td width="25%" align="center">
+<img
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  alt="CSS3"
+/>
 
-### `FRONTEND`
+<br><br>
 
-⚡ JavaScript
+<!-- ROW 3 -->
 
-🌐 HTML5
+<img
+  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
 
-🎨 CSS3
+<img
+  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  alt="Git"
+/>
 
-🖥️ Web
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 
-</td>
+<br><br>
 
-<td width="25%" align="center">
+<!-- ROW 4 -->
 
-### `TOOLS`
+<img
+  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+  alt="Figma"
+/>
 
-🔧 Git
+<img
+  src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+  alt="VS Code"
+/>
 
-🐙 GitHub
+<img
+  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  alt="Linux"
+/>
 
-🎨 Figma
+<br><br>
 
-💻 VS Code
+<!-- ROW 5 -->
 
-</td>
+<img
+  src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=00FF9C"
+  alt="AI"
+/>
 
-<td width="25%" align="center">
+<img
+  src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=googlegemini&logoColor=00D9FF"
+  alt="GenAI"
+/>
 
-### `EXPLORING`
-
-🤖 AI
-
-🧠 GenAI
-
-🔌 APIs
-
-🚀 SaaS
+<img
+  src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00FF9C"
+  alt="APIs"
+/>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   PYTHON  →  DJANGO  →  APIs  →  AI  →  BUILD  →  SHIP                    │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-# `03` / PROJECT LAB
+# `04` / PROJECT LAB
 
 <div align="center">
 
@@ -366,7 +445,10 @@ A Django-powered full-stack travel platform.
 <br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img
+  src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Open Wanderlust"
+/>
 </a>
 
 </td>
@@ -402,7 +484,10 @@ A real-time crop-price intelligence platform.
 <br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img
+  src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Open FarmLink"
+/>
 </a>
 
 </td>
@@ -442,7 +527,10 @@ An AI-powered government-benefits discovery experience.
 <br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img
+  src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Open HaqDari"
+/>
 </a>
 
 </td>
@@ -478,7 +566,10 @@ A personalized career and education guidance platform.
 <br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img
+  src="https://img.shields.io/badge/OPEN_BUILD-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Open Career Guidance AI"
+/>
 </a>
 
 </td>
@@ -491,16 +582,25 @@ A personalized career and education guidance platform.
 <div align="center">
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│                       PROBLEM → IDEA → BUILD → ITERATE → SHIP             │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+PROBLEM
+   ↓
+IDEA
+   ↓
+PROTOTYPE
+   ↓
+BUILD
+   ↓
+ITERATE
+   ↓
+SHIP
 ```
+
+<br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
 <img
   src="https://img.shields.io/badge/ENTER_PROJECT_ARCHIVE-050A0F?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Project archive"
 />
 </a>
 
@@ -508,12 +608,12 @@ A personalized career and education guidance platform.
 
 ---
 
-# `04` / CONTRIBUTION ENGINE
+# `05` / CONTRIBUTION ENGINE
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=45&lines=CONTRIBUTION+ENGINE;MY+CODE+LEAVES+A+TRAIL;EVERY+CELL+IS+A+COMMIT"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=820&height=45&lines=CONTRIBUTION+ENGINE;MY+CODE+LEAVES+A+TRAIL;EVERY+CELL+IS+A+COMMIT"
   alt="Contribution animation"
 />
 
@@ -542,7 +642,7 @@ A personalized career and education guidance platform.
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=1800&pause=800&color=7D95A3&center=true&vCenter=true&width=600&height=30&lines=commit+%E2%86%92+contribute+%E2%86%92+repeat"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=1800&pause=800&color=7D95A3&center=true&vCenter=true&width=620&height=30&lines=commit+%E2%86%92+contribute+%E2%86%92+repeat"
   alt="Contribution loop"
 />
 
@@ -550,12 +650,12 @@ A personalized career and education guidance platform.
 
 ---
 
-# `05` / BUILD QUEUE
+# `06` / BUILD QUEUE
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=FFCC66&center=true&vCenter=true&width=750&height=42&lines=CURRENTLY+BUILDING;CURRENTLY+LEARNING;CURRENTLY+EXPLORING"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=FFCC66&center=true&vCenter=true&width=760&height=42&lines=CURRENTLY+BUILDING;CURRENTLY+LEARNING;CURRENTLY+EXPLORING"
   alt="Current work animation"
 />
 
@@ -613,13 +713,13 @@ A personalized career and education guidance platform.
 
 ---
 
-# `06` / GITHUB TELEMETRY
+# `07` / GITHUB TELEMETRY
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&width=750&height=42&lines=GITHUB+TELEMETRY;SYSTEM+METRICS;PROFILE+SIGNALS"
-  alt="Telemetry animation"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&width=760&height=42&lines=GITHUB+TELEMETRY;SYSTEM+METRICS;PROFILE+SIGNALS"
+  alt="GitHub telemetry animation"
 />
 
 <br><br>
@@ -627,7 +727,7 @@ A personalized career and education guidance platform.
 <a href="https://github.com/vishesh1916">
 <img
   src="https://img.shields.io/github/followers/vishesh1916?style=for-the-badge&label=FOLLOWERS&color=050A0F&logo=github&logoColor=00FF9C"
-  alt="Followers"
+  alt="GitHub followers"
 />
 </a>
 
@@ -648,11 +748,11 @@ A personalized career and education guidance platform.
 ```text
 ╭────────────────────────────────────────────────────────────────────────────╮
 │                                                                            │
-│      FOLLOWERS        REPOSITORIES        BUILDS        CONTRIBUTIONS       │
+│     FOLLOWERS        REPOSITORIES        BUILDS        CONTRIBUTIONS       │
 │                                                                            │
-│        LIVE               LIVE             LIVE              LIVE           │
+│       LIVE               LIVE             LIVE              LIVE           │
 │                                                                            │
-│                        github.com/vishesh1916                             │
+│                         github.com/vishesh1916                             │
 │                                                                            │
 ╰────────────────────────────────────────────────────────────────────────────╯
 ```
@@ -661,13 +761,13 @@ A personalized career and education guidance platform.
 
 ---
 
-# `07` / BEYOND THE TERMINAL
+# `08` / BEYOND THE TERMINAL
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2300&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&height=40&lines=BEYOND+THE+TERMINAL;CODE+IS+NOT+THE+WHOLE+STORY;BUILD+LIFE+TOO"
-  alt="Beyond terminal animation"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2300&pause=800&color=FF6B6B&center=true&vCenter=true&width=820&height=40&lines=BEYOND+THE+TERMINAL;CODE+IS+NOT+THE+WHOLE+STORY;BUILD+LIFE+TOO"
+  alt="Beyond code animation"
 />
 
 <br><br>
@@ -675,11 +775,35 @@ A personalized career and education guidance platform.
 <table>
 <tr>
 
-<td align="center">✈️<br><code>TRAVEL</code></td>
-<td align="center">🎬<br><code>CINEMA</code></td>
-<td align="center">☕<br><code>CHAI</code></td>
-<td align="center">🏋️<br><code>FITNESS</code></td>
-<td align="center">💡<br><code>IDEAS</code></td>
+<td align="center">
+✈️
+<br>
+`TRAVEL`
+</td>
+
+<td align="center">
+🎬
+<br>
+`CINEMA`
+</td>
+
+<td align="center">
+☕
+<br>
+`CHAI`
+</td>
+
+<td align="center">
+🏋️
+<br>
+`FITNESS`
+</td>
+
+<td align="center">
+💡
+<br>
+`IDEAS`
+</td>
 
 </tr>
 </table>
@@ -689,8 +813,8 @@ A personalized career and education guidance platform.
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
 │                                                                            │
-│                 CODE IS WHAT I WRITE.                                     │
-│                 CURIOSITY IS WHAT DRIVES IT.                             │
+│                    CODE IS WHAT I WRITE.                                  │
+│                    CURIOSITY IS WHAT DRIVES IT.                          │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -699,12 +823,12 @@ A personalized career and education guidance platform.
 
 ---
 
-# `08` / CONNECT
+# `09` / CONNECT
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2300&pause=800&color=00FF9C&center=true&vCenter=true&width=750&height=45&lines=LET'S+BUILD+SOMETHING;OPEN+TO+GOOD+IDEAS;SEE+YOU+ON+THE+OTHER+SIDE"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2300&pause=800&color=00FF9C&center=true&vCenter=true&width=760&height=45&lines=LET'S+BUILD+SOMETHING;OPEN+TO+GOOD+IDEAS;SEE+YOU+ON+THE+OTHER+SIDE"
   alt="Connect animation"
 />
 
@@ -729,6 +853,7 @@ A personalized career and education guidance platform.
   src="https://img.shields.io/badge/EMAIL-050A0F?style=for-the-badge&logo=gmail&logoColor=FF6B6B"
   alt="Email"
 />
+</a>
 
 <br><br>
 
