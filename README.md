@@ -1,30 +1,39 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/assets/vishesh-os-animated.svg"
+  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/assets/vishesh-os-animated.svg?v=3"
   width="100%"
-  alt="Vishesh TV"
+  alt="Vishesh TV — Retro Broadcast"
 />
 
 <br>
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2400&pause=850&color=00FF9C&center=true&vCenter=true&width=820&height=38&lines=FULL+STACK+DEVELOPER;AI+BUILDER;HACKATHON+ENTHUSIAST;PRODUCT+EXPLORER"
-  alt="Animated roles"
+  alt="Animated developer roles"
 />
 
 <br>
 
 <a href="https://github.com/vishesh1916">
-  <img src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="GitHub"
+  />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vishesh-r-sachan-5ab29739b">
-  <img src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email">
+  <img
+    src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B"
+    alt="Email"
+  />
 </a>
 
 </div>
@@ -36,9 +45,9 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-stats-crt.png"
+  src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-stats-crt.png?v=3"
   width="100%"
-  alt="Live GitHub CRT"
+  alt="Vishesh Sachan Live GitHub CRT"
 />
 
 </div>
@@ -54,20 +63,20 @@
   <!-- DARK MODE -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-night-green.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-night-green.svg?v=3"
   />
 
   <!-- LIGHT MODE -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg?v=3"
   />
 
   <!-- FALLBACK -->
   <img
-    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg"
+    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg?v=3"
     width="100%"
-    alt="Vishesh 3D GitHub contribution world"
+    alt="Vishesh Sachan 3D GitHub contribution world"
   />
 
 </picture>
@@ -100,6 +109,7 @@
 <table border="0" cellspacing="0" cellpadding="3">
 
 <tr>
+
 <td>
 <img
   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -127,9 +137,11 @@
   alt="JavaScript"
 />
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -157,9 +169,11 @@
   alt="Git"
 />
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img
   src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -187,9 +201,11 @@
   alt="Linux"
 />
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img
   src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=00FF9C"
@@ -210,6 +226,7 @@
   alt="APIs"
 />
 </td>
+
 </tr>
 
 </table>
@@ -353,20 +370,23 @@ for students.
 
 <picture>
 
+  <!-- DARK MODE -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake-dark.svg?v=3"
   />
 
+  <!-- LIGHT MODE -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg?v=3"
   />
 
+  <!-- FALLBACK -->
   <img
-    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg?v=3"
     width="100%"
-    alt="GitHub contribution snake"
+    alt="Vishesh GitHub contribution snake"
   />
 
 </picture>
