@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Vishesh Sachan
 
-<!--
-**vishesh1916/vishesh1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer • Django • Python • AI Projects
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=vishesh1916&theme=crt&include_all_commits=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Python • Django • Java • MySQL • Git • Figma
+
+## 🌟 Projects
+- Wanderlust
+- FarmLink
+- HaqDari
+- AI Career Guidance System
