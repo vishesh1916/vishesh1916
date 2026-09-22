@@ -1,16 +1,25 @@
-# Hi 👋 I'm Vishesh Sachan
+<div align="center">
 
-Full Stack Developer • Django • Python • AI Projects
+# Vishesh Sachan
+
+### Full Stack Developer • AI Builder • Hackathon Enthusiast
+
+</div>
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=vishesh1916&theme=crt&include_all_commits=true" />
+  <img
+    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/dist/github-stats-crt.svg"
+    alt="Vishesh Sachan GitHub CRT Stats"
+    width="900"
+  />
 </p>
 
-## 🚀 Tech Stack
-Python • Django • Java • MySQL • Git • Figma
+---
 
-## 🌟 Projects
-- Wanderlust
-- FarmLink
-- HaqDari
-- AI Career Guidance System
+## 🚀 About Me
+
+Building full-stack applications, AI products and hackathon projects.
+
+## 🛠️ Tech Stack
+
+Python • Django • Java • JavaScript • MySQL • Git • Figma
