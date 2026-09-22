@@ -1,11 +1,9 @@
-name: 🐍 Contribution Snake
+name: Contribution Snake
 
 on:
   schedule:
     - cron: "17 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -15,9 +13,7 @@ permissions:
 
 jobs:
   generate:
-    name: Generate contribution snake
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate snake
@@ -30,11 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish generated files
+      - name: Publish snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
           keep_files: true
-          commit_message: "chore: update contribution snake"
+          commit_message: "Update contribution snake"
