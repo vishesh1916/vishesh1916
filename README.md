@@ -96,11 +96,11 @@
 
 <td width="48%" align="center" valign="middle">
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-  width="390"
-  alt="Pixel coding vibe"
-/>
+  <img
+    src="./assets/vishesh-pixel-workspace.svg"
+    width="430"
+    alt="Vishesh pixel art developer workspace"
+  />
 
 </td>
 
