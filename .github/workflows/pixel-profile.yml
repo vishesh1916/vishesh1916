@@ -1,0 +1,31 @@
+name: Update CRT GitHub Stats
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate CRT stats card
+        uses: LuciNyan/pixel-profile/action@main
+        with:
+          crt_outputs: |
+            dist/github-stats-crt?username=vishesh1916&include_all_commits=true
+
+      - name: Publish generated card
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
