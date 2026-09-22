@@ -3,7 +3,7 @@
 <img
   src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/assets/vishesh-os-animated.svg"
   width="100%"
-  alt="Vishesh TV Retro Broadcast"
+  alt="Vishesh TV"
 />
 
 <br>
@@ -29,11 +29,9 @@
 
 </div>
 
-<br>
-
 ---
 
-<h3 align="center"><code>01 / LIVE CRT</code></h3>
+### `01 / LIVE CRT`
 
 <div align="center">
 
@@ -47,27 +45,40 @@
 
 ---
 
-<h3 align="center"><code>02 / CONTRIBUTION WORLD</code></h3>
+### `02 / CONTRIBUTION WORLD`
 
 <div align="center">
 
-<img
-  src="./profile-3d-contrib/profile-green-animate.svg"
-  width="100%"
-  alt="Vishesh 3D GitHub contribution world"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-green.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-green-animate.svg"
+  />
+
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="Vishesh GitHub 3D contribution world"
+  />
+</picture>
 
 <br>
 
-<sub>living 3D map of my GitHub activity</sub>
+<sub>my GitHub activity, rendered as a living 3D world</sub>
 
 </div>
 
 ---
 
-<h3 align="center"><code>03 / TECH STACK</code></h3>
+### `03 / TECH STACK`
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
 <tr>
 
 <td width="48%" align="center" valign="middle">
@@ -75,7 +86,7 @@
 <img
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
   width="390"
-  alt="Animated developer coding scene"
+  alt="Animated developer scene"
 />
 
 </td>
@@ -85,78 +96,99 @@
 <table border="0" cellspacing="0" cellpadding="3">
 
 <tr>
+
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 <img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=00FF9C" alt="AI">
 </td>
+
 <td>
 <img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=googlegemini&logoColor=00D9FF" alt="GenAI">
 </td>
+
 <td colspan="2">
 <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00FF9C" alt="APIs">
 </td>
+
 </tr>
 
 </table>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-<h3 align="center"><code>04 / PROJECT LAB</code></h3>
+### `04 / PROJECT LAB`
 
 <table
   align="center"
   width="100%"
   border="1"
   cellspacing="0"
-  cellpadding="16"
+  cellpadding="15"
   style="border-collapse:collapse;"
 >
 
@@ -168,10 +200,14 @@
 
 <p>
 Full-stack travel platform built with Django —
-travel stories, experiences and community.
+stories, experiences and community.
 </p>
 
-<code>Python</code> <code>Django</code> <code>Web</code>
+<code>Python</code>
+&nbsp;
+<code>Django</code>
+&nbsp;
+<code>Web</code>
 
 <br><br>
 
@@ -193,7 +229,11 @@ Real-time crop-price intelligence platform
 for better farmer decisions.
 </p>
 
-<code>APIs</code> <code>Data</code> <code>AgriTech</code>
+<code>APIs</code>
+&nbsp;
+<code>Data</code>
+&nbsp;
+<code>AgriTech</code>
 
 <br><br>
 
@@ -219,7 +259,11 @@ AI-powered platform for discovering government
 benefits and understanding eligibility.
 </p>
 
-<code>AI</code> <code>Gemini</code> <code>Web</code>
+<code>AI</code>
+&nbsp;
+<code>Gemini</code>
+&nbsp;
+<code>Web</code>
 
 <br><br>
 
@@ -241,7 +285,11 @@ Personalized career and education guidance
 for students.
 </p>
 
-<code>AI</code> <code>Python</code> <code>Web</code>
+<code>AI</code>
+&nbsp;
+<code>Python</code>
+&nbsp;
+<code>Web</code>
 
 <br><br>
 
@@ -260,7 +308,7 @@ for students.
 
 ---
 
-<h3 align="center"><code>05 / CONTRIBUTION ENGINE</code></h3>
+### `05 / CONTRIBUTION ENGINE`
 
 <div align="center">
 
@@ -282,11 +330,15 @@ for students.
   />
 </picture>
 
+<br>
+
+<sub>commit → contribute → repeat</sub>
+
 </div>
 
 ---
 
-<h3 align="center"><code>06 / NOW</code></h3>
+### `06 / NOW`
 
 <div align="center">
 
@@ -300,7 +352,7 @@ for students.
 
 ---
 
-<h3 align="center"><code>07 / CONNECT</code></h3>
+### `07 / CONNECT`
 
 <div align="center">
 
