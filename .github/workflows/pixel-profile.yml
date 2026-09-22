@@ -14,11 +14,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Generate CRT stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
+          github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
           crt_outputs: |
             dist/github-stats-crt?username=vishesh1916&include_all_commits=true
 
