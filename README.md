@@ -1,29 +1,16 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BOOT -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║  vishesh@github:~$ ./vishesh                                               ║
+║  vishesh@github:~$ ./vishesh                                              ║
 ║                                                                            ║
-║  ██████╗ ███████╗██╗   ██╗███████╗███████╗██╗  ██╗                       ║
-║  ██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝██║  ██║                       ║
-║  ██████╔╝█████╗  ██║   ██║███████╗█████╗  ███████║                       ║
-║  ██╔══██╗██╔══╝  ╚██╗ ██╔╝╚════██║██╔══╝  ██╔══██║                       ║
-║  ██████╔╝███████╗ ╚████╔╝ ███████║███████╗██║  ██║                       ║
-║  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝                       ║
+║  FULL STACK DEVELOPER  //  AI BUILDER  //  HACKATHON ENTHUSIAST            ║
 ║                                                                            ║
-║  FULL STACK DEVELOPER  //  AI BUILDER  //  HACKATHON ENTHUSIAST           ║
-║                                                                            ║
-║  SYSTEM STATUS: ONLINE ●                                                  ║
+║  SYSTEM STATUS ................................................. ONLINE ●  ║
 ║                                                                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-<br>
 
 # `VISHESH SACHAN`
 
@@ -31,13 +18,13 @@
 
 <p>
   <a href="https://github.com/vishesh1916">
-    <img src="https://img.shields.io/badge/GITHUB-0B1117?style=for-the-badge&logo=github&logoColor=00FF9C">
+    <img src="https://img.shields.io/badge/GITHUB-0B1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0B1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-0B1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B">
+    <img src="https://img.shields.io/badge/EMAIL-0B1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email">
   </a>
 </p>
 
@@ -45,9 +32,9 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- LIVE CRT -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -78,14 +65,28 @@
 
 # `01` / SYSTEM PROFILE
 
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  VISHESH.OS  /  PROFILE_01                              STATUS: ONLINE ●   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  loading identity........................................ [ COMPLETE ]     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="57%" valign="top">
 
-### `> WHOAMI`
+<h3>⚡ &nbsp; <code>&gt; WHOAMI</code></h3>
 
-```text
+<pre>
 VISHESH SACHAN
 ──────────────────────────────────────
 
@@ -96,68 +97,58 @@ INTERESTS
 AI / GenAI
 Hackathons
 Product Development
-Startup Ideas
+Startup Experiments
 
 I LIKE BUILDING
 → Web applications
 → AI-powered products
 → Useful tools
 → Real-world solutions
-```
-
-<br>
-
-### `> DEVELOPMENT LOOP`
-
-```text
-      IDEA
-       │
-       ▼
-    DESIGN
-       │
-       ▼
-     BUILD
-       │
-       ▼
-      TEST
-       │
-       ▼
-      SHIP
-```
+</pre>
 
 </td>
 
-<td width="42%" valign="top">
+<td width="43%" valign="top">
 
-### `> LIVE TELEMETRY`
+<h3>🛰️ &nbsp; <code>&gt; LIVE TELEMETRY</code></h3>
 
-```text
-LOCATION
-India
-
-EDUCATION
-B.Tech Student
-
-CORE
-Full Stack Development
-
-EXPLORING
-AI / GenAI
-
-CURRENT MODE
-BUILDING
-```
+<table>
+<tr>
+<td>📍</td>
+<td><b>India</b></td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>B.Tech Student</b></td>
+</tr>
+<tr>
+<td>💻</td>
+<td><b>Full Stack</b></td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>AI / GenAI</b></td>
+</tr>
+<tr>
+<td>🚀</td>
+<td><b>Hackathons</b></td>
+</tr>
+<tr>
+<td>☕</td>
+<td><b>Chai Powered</b></td>
+</tr>
+</table>
 
 <br>
 
-### `> CURRENT STATE`
+<pre>
+CURRENT STATE
 
-```text
 BUILDING    ███████████████████░
 LEARNING    █████████████████░░░
 EXPLORING   ████████████████░░░░
 SHIPPING    ███████████████████░
-```
+</pre>
 
 </td>
 
@@ -171,7 +162,7 @@ SHIPPING    ███████████████████░
 ```text
 ┌──────────────────────┬──────────────────────┬──────────────────────┐
 │                      │                      │                      │
-│      🌐 BUILD        │      🤖 EXPLORE      │      🚀 SHIP         │
+│       🌐 BUILD       │      🤖 EXPLORE      │      🚀 SHIP         │
 │                      │                      │                      │
 │  Full-stack apps     │  AI / GenAI         │  Hackathons          │
 │  APIs                │  Automation         │  MVPs                │
@@ -179,6 +170,34 @@ SHIPPING    ███████████████████░
 │                      │                      │                      │
 └──────────────────────┴──────────────────────┴──────────────────────┘
 ```
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+IDEA
+  │
+  ▼
+DESIGN
+  │
+  ▼
+BUILD
+  │
+  ▼
+TEST
+  │
+  ▼
+SHIP
+```
+
+<br>
+
+> **`build → learn → break → rebuild → ship`**
+
+<sub>Not chasing perfect code. Chasing better ideas.</sub>
 
 </div>
 
@@ -190,7 +209,7 @@ SHIPPING    ███████████████████░
 
 <img
   src="https://skillicons.dev/icons?i=python,django,java,javascript,html,css,mysql,git,github,figma,vscode,linux&perline=6"
-  alt="Tech stack"
+  alt="Vishesh Sachan technology stack"
 />
 
 <br><br>
@@ -251,52 +270,129 @@ SHIPPING    ███████████████████░
 
 # `03` / PROJECT LAB
 
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                              PROJECT LAB                                    ║
+║                                                                            ║
+║                  IDEAS  →  PROTOTYPES  →  PRODUCTS                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### `SELECTED BUILDS`
+
+<sub>projects built around real problems, experiments and curiosity</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  FEATURED BUILD                                                             │
+│                                                                            │
+│  🌍  WANDERLUST                                                             │
+│                                                                            │
+│  A full-stack travel platform built around stories, places and people.      │
+│                                                                            │
+│  PYTHON  •  DJANGO  •  WEB                                                │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+<a href="https://github.com/vishesh1916?tab=repositories">
+<img
+  src="https://img.shields.io/badge/EXPLORE_BUILD-0B1117?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Explore projects"
+/>
+</a>
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🌍 `WANDERLUST`
+<h2>🌍 <code>WANDERLUST</code></h2>
 
-```text
-TRAVEL / COMMUNITY
+<p><sub>TRAVEL / COMMUNITY / FULL STACK</sub></p>
 
-A full-stack travel platform
-built with Django.
+<p><b>THE IDEA</b></p>
 
-STACK
-Python • Django • HTML • CSS
+<p>
+Create a space where travel experiences become stories.
+</p>
 
-FEATURES
+<p><b>THE BUILD</b></p>
+
+<p>
+A Django-powered full-stack travel platform.
+</p>
+
+<p><b>CORE</b></p>
+
+<pre>
 ✓ Authentication
 ✓ Create travel stories
-✓ Edit / delete posts
+✓ Update / delete posts
 ✓ Browse experiences
 ✓ Community content
-```
+</pre>
+
+<p>
+<img src="https://img.shields.io/badge/Python-0B1117?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Django-0B1117?style=flat-square&logo=django&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Web-0B1117?style=flat-square&logo=googlechrome&logoColor=00D9FF">
+</p>
+
+<a href="https://github.com/vishesh1916?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_BUILD-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌱 `FARMLINK`
+<h2>🌱 <code>FARMLINK</code></h2>
 
-```text
-AGRITECH / DATA
+<p><sub>AGRITECH / DATA / REAL-TIME</sub></p>
 
-A real-time crop price
-intelligence platform.
+<p><b>THE IDEA</b></p>
 
-STACK
-Web • APIs • Real-time Data
+<p>
+Give farmers useful market intelligence.
+</p>
 
-FEATURES
+<p><b>THE BUILD</b></p>
+
+<p>
+A real-time crop price intelligence platform.
+</p>
+
+<p><b>CORE</b></p>
+
+<pre>
 ✓ Crop price tracking
 ✓ Live API data
 ✓ Market information
 ✓ Farmer-focused UI
 ✓ Decision support
-```
+</pre>
+
+<p>
+<img src="https://img.shields.io/badge/API-0B1117?style=flat-square&logo=fastapi&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/DATA-0B1117?style=flat-square&logo=databricks&logoColor=FFCC66">
+<img src="https://img.shields.io/badge/AGRITECH-0B1117?style=flat-square&logo=leaflet&logoColor=00FF9C">
+</p>
+
+<a href="https://github.com/vishesh1916?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_BUILD-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -306,58 +402,107 @@ FEATURES
 
 <td width="50%" valign="top">
 
-## 🏛️ `HAQDARI`
+<h2>🏛️ <code>HAQDARI</code></h2>
 
-```text
-AI / SOCIAL IMPACT
+<p><sub>AI / SOCIAL IMPACT / GOVTECH</sub></p>
 
-AI-powered government
-benefit discovery platform.
+<p><b>THE PROBLEM</b></p>
 
-STACK
-AI • Gemini • Web
+<p>
+People can miss benefits they may already be eligible for.
+</p>
 
-FEATURES
+<p><b>THE BUILD</b></p>
+
+<p>
+An AI-powered government benefits discovery experience.
+</p>
+
+<p><b>CORE</b></p>
+
+<pre>
 ✓ Scheme discovery
 ✓ Eligibility assistance
 ✓ Document guidance
 ✓ AI chatbot
 ✓ Claim assistance
-```
+</pre>
+
+<p>
+<img src="https://img.shields.io/badge/AI-0B1117?style=flat-square&logo=openai&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/GEMINI-0B1117?style=flat-square&logo=google&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/IMPACT-0B1117?style=flat-square&logo=heart&logoColor=FF6B6B">
+</p>
+
+<a href="https://github.com/vishesh1916?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_BUILD-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 `CAREER GUIDANCE AI`
+<h2>🎓 <code>CAREER GUIDANCE AI</code></h2>
 
-```text
-AI / EDUCATION
+<p><sub>AI / EDUCATION / PERSONALIZATION</sub></p>
 
-Personalized career and
-education guidance system.
+<p><b>THE PROBLEM</b></p>
 
-STACK
-AI • Python • Web
+<p>
+Students often choose paths without enough direction.
+</p>
 
-FEATURES
+<p><b>THE BUILD</b></p>
+
+<p>
+A personalized career and education guidance platform.
+</p>
+
+<p><b>CORE</b></p>
+
+<pre>
 ✓ Aptitude guidance
 ✓ Career pathways
 ✓ Course discovery
 ✓ Personalized roadmap
 ✓ Student assistance
-```
+</pre>
+
+<p>
+<img src="https://img.shields.io/badge/AI-0B1117?style=flat-square&logo=openai&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/PYTHON-0B1117?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/EDUCATION-0B1117?style=flat-square&logo=googlescholar&logoColor=FFCC66">
+</p>
+
+<a href="https://github.com/vishesh1916?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_BUILD-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
 <div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│                              HOW I BUILD                                  │
+│                                                                            │
+│   PROBLEM ──→ IDEA ──→ PROTOTYPE ──→ BUILD ──→ ITERATE ──→ SHIP          │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
 <img
-  src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0B1117?style=for-the-badge&logo=github&logoColor=00FF9C"
+  src="https://img.shields.io/badge/ENTER_PROJECT_ARCHIVE-0B1117?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="Project archive"
 />
 </a>
 
@@ -378,18 +523,20 @@ FEATURES
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake.svg"
     width="100%"
-    alt="GitHub contribution snake"
+    alt="Vishesh Sachan GitHub contribution snake"
   />
 </picture>
 
-<br>
+<br><br>
 
 ```text
 commit → contribute → repeat
@@ -406,43 +553,43 @@ commit → contribute → repeat
 
 <td width="33%" valign="top">
 
-### `BUILDING`
+<h3>🏗️ BUILDING</h3>
 
-```text
+<pre>
 → AI products
 → Full-stack apps
 → Hackathon MVPs
 → Startup experiments
 → Real-world solutions
-```
+</pre>
 
 </td>
 
 <td width="33%" valign="top">
 
-### `LEARNING`
+<h3>🧠 LEARNING</h3>
 
-```text
+<pre>
 → Backend architecture
 → AI integrations
 → System design
 → Product thinking
 → Better UI / UX
-```
+</pre>
 
 </td>
 
 <td width="33%" valign="top">
 
-### `EXPLORING`
+<h3>🌌 EXPLORING</h3>
 
-```text
+<pre>
 → Generative AI
 → APIs
 → SaaS
 → New technologies
 → Startup ideas
-```
+</pre>
 
 </td>
 
@@ -458,17 +605,20 @@ commit → contribute → repeat
 <a href="https://github.com/vishesh1916">
 <img
   src="https://img.shields.io/github/followers/vishesh1916?style=for-the-badge&label=FOLLOWERS&color=0B1117&logo=github&logoColor=00FF9C"
+  alt="GitHub followers"
 />
 </a>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
 <img
   src="https://img.shields.io/badge/OPEN_REPOSITORIES-EXPLORE-0B1117?style=for-the-badge&logo=github&logoColor=00D9FF"
+  alt="Repositories"
 />
 </a>
 
 <img
   src="https://komarev.com/ghpvc/?username=vishesh1916&style=for-the-badge&label=PROFILE%20VIEWS&color=0B1117"
+  alt="Profile views"
 />
 
 </div>
@@ -480,11 +630,11 @@ commit → contribute → repeat
 ```text
 ╭────────────────────────────────────────────────────────────────────────────╮
 │                                                                            │
-│   REPOSITORIES       CONTRIBUTIONS       BUILDS       IDEAS               │
+│    FOLLOWERS        PROJECTS         CONTRIBUTIONS         BUILDS          │
 │                                                                            │
-│       LIVE                LIVE             LIVE          LIVE              │
+│      LIVE             LIVE               LIVE                LIVE          │
 │                                                                            │
-│         ↳ github.com/vishesh1916                                           │
+│                         github.com/vishesh1916                             │
 │                                                                            │
 ╰────────────────────────────────────────────────────────────────────────────╯
 ```
@@ -548,8 +698,8 @@ commit → contribute → repeat
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
 │                                                                            │
-│                CODE IS WHAT I WRITE.                                      │
-│                CURIOSITY IS WHAT DRIVES IT.                              │
+│                     CODE IS WHAT I WRITE.                                 │
+│                     CURIOSITY IS WHAT DRIVES IT.                         │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -565,18 +715,21 @@ commit → contribute → repeat
 <a href="https://github.com/vishesh1916">
 <img
   src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
+  alt="GitHub"
 />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
 <img
   src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+  alt="LinkedIn"
 />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img
   src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF6B6B"
+  alt="Email"
 />
 </a>
 
@@ -595,5 +748,9 @@ commit → contribute → repeat
 ```
 
 ### `DEVELOPER // DREAMER // DOER`
+
+<br>
+
+<sub>built with curiosity · powered by chai</sub>
 
 </div>
