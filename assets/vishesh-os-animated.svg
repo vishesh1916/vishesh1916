@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Vishesh Sachan animated developer terminal">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#05080d"/><stop offset="55%" stop-color="#07131b"/><stop offset="100%" stop-color="#031017"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00FF9C"/><stop offset="55%" stop-color="#00D9FF"/><stop offset="100%" stop-color="#7CFFCB"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="transparent"/><rect width="6" height="1" fill="#9fffdc" opacity=".035"/></pattern>
+  <clipPath id="clip"><rect x="26" y="24" width="1148" height="382" rx="24"/></clipPath>
+</defs>
+
+<rect width="1200" height="430" rx="28" fill="#02050a"/>
+<rect x="10" y="10" width="1180" height="410" rx="24" fill="url(#bg)" stroke="#122431" stroke-width="2"/>
+
+<g clip-path="url(#clip)">
+  <rect x="26" y="24" width="1148" height="382" rx="24" fill="none" stroke="url(#neon)" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="26" y="24" width="1148" height="382" fill="url(#scan)"/>
+
+  <circle cx="930" cy="125" r="110" fill="#00D9FF" opacity=".06">
+    <animate attributeName="opacity" values=".04;.11;.04" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="190" cy="300" r="120" fill="#00FF9C" opacity=".045">
+    <animate attributeName="opacity" values=".03;.08;.03" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="monospace">
+    <text x="56" y="65" font-size="18" fill="#7d95a3">VISHESH.OS / PROFILE_KERNEL / v1.0.0</text>
+    <circle cx="1115" cy="58" r="6" fill="#00FF9C" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1130" y="64" text-anchor="end" font-size="15" fill="#00FF9C">ONLINE</text>
+
+    <text x="58" y="118" font-size="38" font-weight="700" fill="#F1FFF8">VISHESH SACHAN</text>
+    <text x="60" y="150" font-size="18" fill="#00D9FF">FULL STACK  //  AI  //  HACKATHONS  //  PRODUCT</text>
+
+    <text x="60" y="195" font-size="16" fill="#00FF9C">$</text>
+    <text x="82" y="195" font-size="16" fill="#D9E9E2">systemctl start builder.service</text>
+    <rect x="410" y="180" width="10" height="19" fill="#00FF9C">
+      <animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="60" y="229" font-size="15" fill="#7D95A3">[01]</text>
+    <text x="108" y="229" font-size="15" fill="#D9E9E2">loading curiosity</text>
+    <text x="410" y="229" font-size="15" fill="#00FF9C">DONE</text>
+
+    <text x="60" y="258" font-size="15" fill="#7D95A3">[02]</text>
+    <text x="108" y="258" font-size="15" fill="#D9E9E2">loading problem-solving</text>
+    <text x="410" y="258" font-size="15" fill="#00FF9C">DONE</text>
+
+    <text x="60" y="287" font-size="15" fill="#7D95A3">[03]</text>
+    <text x="108" y="287" font-size="15" fill="#D9E9E2">loading build / learn / ship loop</text>
+    <text x="410" y="287" font-size="15" fill="#00FF9C">DONE</text>
+
+    <text x="60" y="329" font-size="14" fill="#7D95A3">BUILD</text>
+    <rect x="130" y="318" width="300" height="10" rx="5" fill="#0B2730"/>
+    <rect x="130" y="318" width="266" height="10" rx="5" fill="url(#neon)">
+      <animate attributeName="width" values="220;270;248;266" dur="5.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="60" y="358" font-size="14" fill="#7D95A3">LEARN</text>
+    <rect x="130" y="347" width="300" height="10" rx="5" fill="#0B2730"/>
+    <rect x="130" y="347" width="232" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" values="190;242;220;232" dur="5.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="690" y="104" width="410" height="248" rx="18" fill="#061119" stroke="#163641" stroke-width="1.5"/>
+    <text x="718" y="137" font-size="14" fill="#7D95A3">LIVE TELEMETRY</text>
+    <text x="718" y="175" font-size="15" fill="#DCECE6">LOCATION</text>
+    <text x="1018" y="175" text-anchor="end" font-size="15" fill="#00FF9C">INDIA</text>
+    <text x="718" y="211" font-size="15" fill="#DCECE6">CORE</text>
+    <text x="1018" y="211" text-anchor="end" font-size="15" fill="#00D9FF">FULL STACK</text>
+    <text x="718" y="247" font-size="15" fill="#DCECE6">EXPLORING</text>
+    <text x="1018" y="247" text-anchor="end" font-size="15" fill="#FFCC66">AI / GENAI</text>
+    <text x="718" y="283" font-size="15" fill="#DCECE6">MODE</text>
+    <text x="1018" y="283" text-anchor="end" font-size="15" fill="#00FF9C">BUILDING</text>
+    <line x1="718" y1="302" x2="1070" y2="302" stroke="#14313a"/>
+    <text x="718" y="328" font-size="13" fill="#7D95A3">CHAI POWER</text>
+    <text x="1018" y="328" text-anchor="end" font-size="13" fill="#FFCC66">100%</text>
+  </g>
+
+  <rect x="26" y="25" width="1148" height="5" fill="url(#neon)" opacity=".05">
+    <animate attributeName="y" values="25;400;25" dur="7.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M520 86 H635 V110 H675" fill="none" stroke="#00FF9C" opacity=".2" stroke-width="2"/>
+  <circle cx="520" cy="86" r="3" fill="#00FF9C">
+    <animate attributeName="cx" values="520;675;520" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M580 336 H650 V312 H690" fill="none" stroke="#00D9FF" opacity=".2" stroke-width="2"/>
+  <circle cx="580" cy="336" r="3" fill="#00D9FF">
+    <animate attributeName="cx" values="580;690;580" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>
