@@ -16,15 +16,15 @@
 <br>
 
 <a href="https://github.com/vishesh1916">
-<img src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vishesh-r-sachan-5ab29739b">
-<img src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email">
+  <img src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email">
 </a>
 
 </div>
@@ -50,21 +50,26 @@
 <div align="center">
 
 <picture>
+
+  <!-- DARK MODE -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-green.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-night-green.svg"
   />
 
+  <!-- LIGHT MODE -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green-animate.svg"
+    srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg"
   />
 
+  <!-- FALLBACK -->
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg"
     width="100%"
-    alt="Vishesh GitHub 3D contribution world"
+    alt="Vishesh 3D GitHub contribution world"
   />
+
 </picture>
 
 <br>
@@ -78,7 +83,6 @@
 ### `03 / TECH STACK`
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
 <tr>
 
 <td width="48%" align="center" valign="middle">
@@ -86,7 +90,7 @@
 <img
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
   width="390"
-  alt="Animated developer scene"
+  alt="Animated developer coding scene"
 />
 
 </td>
@@ -96,79 +100,116 @@
 <table border="0" cellspacing="0" cellpadding="3">
 
 <tr>
-
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  alt="Python"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img
+  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+  alt="Django"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img
+  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+  alt="Java"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  alt="JavaScript"
+/>
 </td>
-
 </tr>
 
 <tr>
-
 <td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  alt="HTML5"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  alt="CSS3"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img
+  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img
+  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  alt="Git"
+/>
 </td>
-
 </tr>
 
 <tr>
-
 <td>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img
+  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+  alt="Figma"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img
+  src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+  alt="VS Code"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img
+  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  alt="Linux"
+/>
 </td>
-
 </tr>
 
 <tr>
-
 <td>
-<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=00FF9C" alt="AI">
+<img
+  src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=00FF9C"
+  alt="AI"
+/>
 </td>
 
 <td>
-<img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=googlegemini&logoColor=00D9FF" alt="GenAI">
+<img
+  src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=googlegemini&logoColor=00D9FF"
+  alt="GenAI"
+/>
 </td>
 
 <td colspan="2">
-<img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00FF9C" alt="APIs">
+<img
+  src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00FF9C"
+  alt="APIs"
+/>
 </td>
-
 </tr>
 
 </table>
@@ -176,7 +217,6 @@
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -184,7 +224,6 @@
 ### `04 / PROJECT LAB`
 
 <table
-  align="center"
   width="100%"
   border="1"
   cellspacing="0"
@@ -212,10 +251,10 @@ stories, experiences and community.
 <br><br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img
-  src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
-  alt="Wanderlust"
-/>
+  <img
+    src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="Wanderlust"
+  />
 </a>
 
 </td>
@@ -238,10 +277,10 @@ for better farmer decisions.
 <br><br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img
-  src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
-  alt="FarmLink"
-/>
+  <img
+    src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="FarmLink"
+  />
 </a>
 
 </td>
@@ -268,10 +307,10 @@ benefits and understanding eligibility.
 <br><br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img
-  src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
-  alt="HaqDari"
-/>
+  <img
+    src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="HaqDari"
+  />
 </a>
 
 </td>
@@ -294,10 +333,10 @@ for students.
 <br><br>
 
 <a href="https://github.com/vishesh1916?tab=repositories">
-<img
-  src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
-  alt="Career Guidance AI"
-/>
+  <img
+    src="https://img.shields.io/badge/OPEN_BUILD-111827?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="Career Guidance AI"
+  />
 </a>
 
 </td>
@@ -313,6 +352,7 @@ for students.
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/vishesh1916/vishesh1916/output/github-snake-dark.svg"
@@ -328,6 +368,7 @@ for students.
     width="100%"
     alt="GitHub contribution snake"
   />
+
 </picture>
 
 <br>
@@ -364,15 +405,24 @@ for students.
 <br>
 
 <a href="https://github.com/vishesh1916">
-<img src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=00FF9C"
+    alt="GitHub"
+  />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vishesh-r-sachan-5ab29739b">
-<img src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-080B0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email">
+  <img
+    src="https://img.shields.io/badge/EMAIL-080B0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B"
+    alt="Email"
+  />
 </a>
 
 <br><br>
