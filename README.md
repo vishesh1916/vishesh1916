@@ -74,7 +74,7 @@
 
   <!-- FALLBACK -->
   <img
-    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-green-animate.svg?v=3"
+    src="https://raw.githubusercontent.com/vishesh1916/vishesh1916/main/profile-3d-contrib/profile-night-green.svg?v=3"
     width="100%"
     alt="Vishesh Sachan 3D GitHub contribution world"
   />
